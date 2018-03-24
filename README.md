@@ -5,4 +5,4 @@ Require PIL.
 Python 3.
 
 Usage:
-python red-circle.py <path to base image> <output image name>.png
+`python red-circle.py <path to base image> <output image name>.png`
